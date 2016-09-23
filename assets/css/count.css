@@ -1,0 +1,37 @@
+body{
+  box-sizing:border-box;
+}
+
+.container{
+  margin-top: 100px;
+}
+
+.container__count-text{
+  width: 310px;
+  text-align: center;
+  font-size: 80px;
+  margin-bottom: 30px;
+}
+
+.container__btn{
+  width: 150px;
+  height: 80px;
+  background: #666;
+  margin-right: 10px;
+  font-size: 30px;
+  text-align: center;
+  color: #fff;
+  float: left;
+}
+
+.bg_black{
+  background: #000;
+}
+
+.count_max{
+  display : none;
+}
+
+.count_min{
+  display : none;
+}
